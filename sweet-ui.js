@@ -2,6 +2,7 @@
 library name: sweetui
 version: 1.0
 author full name: Hamza Bouchkara
+Project repo: https://github.dev/hamzafx5/sweet-js
 ---------------*/
 
 (function (win, doc, body) {
